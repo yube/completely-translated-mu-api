@@ -1,5 +1,7 @@
 If you prefer a standalone .exe you can download it [here](https://files.catbox.moe/p8f0r1.7z)
+
 Remade [this](https://github.com/yube/beautiful-soup-mu) but with API calls instead of scraping the site.
+
 You can run install_libraries.bat if you don't want to install them all one by one
 
 ### Result
