@@ -1,0 +1,6 @@
+requests
+PIL
+io
+concurrent.futures
+tqdm
+threading
